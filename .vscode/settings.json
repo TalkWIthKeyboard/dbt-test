@@ -1,0 +1,12 @@
+{
+  "files.associations": {
+    "*.sql": "jinja-sql",
+    "*.yml": "jinja-yaml",
+    "*.yaml": "jinja-yaml",
+    "*.md": "jinja-md",
+    "**/target/**": ""
+  },
+  "editor.quickSuggestions": {
+    "strings": true
+  }
+}
